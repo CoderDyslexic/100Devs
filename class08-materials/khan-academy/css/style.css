@@ -26,11 +26,31 @@
   margin: 0 5%;
   list-style: none;
   }
+  header > nav form img{
+    height: 5px;
+    width: 5%;
+  }
   header nav li{
     float: left;
     width: 33%;
-    sty
   }
+ 
+  main > section{
+    float: left;
+    width: 50%;
+    height: 900px;
+   border-top: 1px solid gray;
+   padding-top: 100px;
+  }
+  main section a{
+    float: left;
+    width: 25%;
+
+  }
+  body header main > section + img{
+    padding-left: 200px;
+  }
+
  
 
 
