@@ -47,6 +47,16 @@ margin: 0%;
 header nav form{
   width: 100;
 }
+main > section{
+  height: 50%;
+  width: 47%;
+  float: left;
+}
+main section + section{
+  height: 50%;
+  width: 47%;
+  float: left;
+}
 
   
 
