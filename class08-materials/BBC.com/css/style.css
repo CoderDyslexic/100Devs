@@ -21,21 +21,38 @@
 /* BASE STYLES
 /*******************************************/
 
-body {
-
-}
 
 
 /******************************************
 /* LAYOUT
 /*******************************************/
-header {
-
+header *{
+  height: 100%;
+  background: black;
+  color: white;
+}
+nav *{
+  float: left;
+  width: 10%;
+  color: white;
+  display: block;
+}
+img{
+  width: 35px;
+}
+nav ul{
+width: 70%;
+margin: 0%;
+}
+header nav form{
+  width: 100;
 }
 
-footer {
+  
 
-}
+
+
+
 
 /******************************************
 /* ADDITIONAL STYLES
