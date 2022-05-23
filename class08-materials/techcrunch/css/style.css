@@ -26,19 +26,19 @@
 /* LAYOUT
 /*******************************************/
 nav{
-  border: 1px solid black;
+ 
   float: left;
   height: 1000px;
   width: 10%;
 }
 main{
-  border: 1px solid black;
+ 
   float: left;
   height: 700px;
   width: 70%;
 }
 section{
-  border: 1px solid black;
+ 
   float: left;
   height: 175px;
   width: 20%;
